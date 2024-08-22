@@ -1,0 +1,29 @@
+.product {
+    border: 1px solid #8a8a8b;
+    border-radius: 4px;
+    width: 250px;
+    height: 350px;
+    display: inline-block;
+    margin: 12px;
+    vertical-align: top;
+    background-color: white;
+}
+
+.product h3 {
+    margin-top:0;
+    margin-bottom: 6px;
+}
+
+.product img {
+    width: 248px;
+    height: 230px;
+}
+
+.product .prices {
+    display: flex;
+    margin-bottom: 12px;
+}
+
+.product .prices label {
+    flex: 1;
+}

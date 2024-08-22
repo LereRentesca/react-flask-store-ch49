@@ -1,0 +1,16 @@
+.catalog {
+    background-color: #ebebeb;
+}
+
+.catalog h1 {
+    color: darkcyan;
+}
+
+.catalog .filter-list button {
+    margin-right: 6px;
+    font-weight: bold;
+}
+
+.catalog .product-list {
+    margin-top: 12px;
+}

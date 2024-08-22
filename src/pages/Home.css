@@ -1,0 +1,9 @@
+
+.home {
+    min-height: 700px;
+    background-color: #e4e8df;
+}
+
+.home h1 {
+    color: darkcyan;
+}

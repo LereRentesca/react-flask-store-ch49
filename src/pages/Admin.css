@@ -1,0 +1,27 @@
+.admin {
+    padding-top:20px;
+    background-image: linear-gradient(to top, #5d8c90, #6a999f, #77a7ae, #85b5bd, #93c3cd);
+}
+
+.admin h1 {
+    color:darkcyan;
+}
+
+.admin .parent {
+    display: flex;
+}
+
+.admin .products {
+    flex: 3;
+}
+
+.admin .coupons {
+    flex: 2;
+}
+
+.admin label {
+    display: inline-block;
+    width: 90px;
+    text-align: right;
+    margin-right: 6px;
+}
